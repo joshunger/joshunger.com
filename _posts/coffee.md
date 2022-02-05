@@ -3,13 +3,24 @@ title: '☕️'
 date: '2022-02-01'
 ---
 
+<!-- https://www.33books.com/products/33-coffees -->
+
+|                |                                              |
+| -------------- | -------------------------------------------- |
+| **Date**       | Feb 5th, 2022                                |
+| **Roaster**    | Thankful Friend                                       |
+| **Coffee**     | [Jairo Arcila][4]                            |
+| **Components** | Grown by Jairo Arcila at finca Buenos Aires. This lot was exposed to a dry anaerobic fermentation period of 32 hours with passion fruit pulp added. Later, the coffee was placed inside Grainpro bags for 90 hours with the addition of CO2 and fresh passion fruit pulp. The fermentation was kept at a stable temperature of below 22°C by submerging the coffee inside a water tank. The pressure inside the tanks allow the passion fruit flavor to wrap the beans and increase the complexity. Later the coffee was placed on raised beds below 35°C until ideal moisture content was achieved. |
+| **Brew Method** | pour over |
+| **Rating** | ⭐ ⭐ ⭐ ⭐ |
+
 |                 |                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------- |
 | **Date**        | Feb 3rd, 2022                                                                      |
 | **Roaster**     | Ritual                                                                             |
 | **Coffee**      | [Bunny Slope Seasonal Espresso][3]                                                 |
 | **Components**  | 1/3 Nelson Ramirez, Honduras/ 1/3 El Alto, Costa Rica / 1/3 Los Gigantes, Colombia |
-| **Brew Method** | Cortado                                                                            |
+| **Brew Method** | [x] Cortado                                                                        |
 | **Rating**      | ⭐ ⭐ ⭐ ⭐                                                                        |
 
 | Date             | Coffee                            | Place             |
@@ -21,3 +32,4 @@ date: '2022-02-01'
 [1]: https://methodicalcoffee.com/collections/home-page/products/ethiopia-aricha-kebele
 [2]: https://catandcloud.com/products/costa-rica-finca-edgar-honey
 [3]: https://ritualcoffee.com/shop/coffee/bunny-slope-seasonal-espresso/
+[4]: https://thankfulfriend.coffee/coffees/p/jairo-arcilo
