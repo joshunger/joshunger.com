@@ -5,6 +5,22 @@ date: '2022-02-01'
 
 <!-- https://www.33books.com/products/33-coffees -->
 
+Serving up this juicy Kenya Ichuga AB on our pour over bar. ❤️‍🔥
+Come and restock your kitchen shelf with one of our absolute favorite roasters ! @heartroasters
+
+|                |                                              |
+| -------------- | -------------------------------------------- |
+| **Date**       | Feb 5th, 2022                                |
+| **Roaster**    | Heart Coffee                                      |
+| **Coffee**     | [Kenya Ichuga AB][5]                            |
+| **Notes** | Strawberry, nectarine and brown sugar |
+| **Components** | Ichuga is one of four washing stations operated by the Kiama Growers Society. Located in the Nyeri district of Kenya, this year it received the Rainforest Alliance certification. Heart has sourced this washed coffee with brilliant acidity and hints of strawberry, nectarine and brown sugar. To discover its full potential, taste it in a filter. |
+| **Brew Method** | pour over |
+| **Rating** | ⭐ ⭐ ⭐ ⭐ |
+
+---
+---
+
 |                |                                              |
 | -------------- | -------------------------------------------- |
 | **Date**       | Feb 5th, 2022                                |
