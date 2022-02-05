@@ -14,6 +14,8 @@ date: '2022-02-01'
 | **Brew Method** | pour over |
 | **Rating** | ⭐ ⭐ ⭐ ⭐ |
 
+---
+
 |                 |                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------- |
 | **Date**        | Feb 3rd, 2022                                                                      |
@@ -22,6 +24,8 @@ date: '2022-02-01'
 | **Components**  | 1/3 Nelson Ramirez, Honduras/ 1/3 El Alto, Costa Rica / 1/3 Los Gigantes, Colombia |
 | **Brew Method** | [x] Cortado                                                                        |
 | **Rating**      | ⭐ ⭐ ⭐ ⭐                                                                        |
+
+---
 
 | Date             | Coffee                            | Place             |
 | ---------------- | --------------------------------- | ----------------- |
