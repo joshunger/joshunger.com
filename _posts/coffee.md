@@ -5,6 +5,15 @@ title: '☕️'
 
 <!-- https://www.33books.com/products/33-coffees -->
 
+|                 |                                   |
+| --------------- | --------------------------------- |
+| **Date**        | Feb 12th, 2022                    |
+| **Roaster**     | Pine                              |
+| **Coffee**      | Colombia — El Jardin - Chiclet    |
+| **Brew Method** | drip                              |
+| **Taste**       | raspberry, strawberry, watermelon |
+| **Rating**      |                                   |
+
 |                 |                              |
 | --------------- | ---------------------------- |
 | **Date**        | Feb 9th, 2022                |
