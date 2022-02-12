@@ -1,6 +1,6 @@
 ---
 title: '☕️'
-date: '2022-02-01'
+# date: '2022-02-01'
 ---
 
 <!-- https://www.33books.com/products/33-coffees -->
