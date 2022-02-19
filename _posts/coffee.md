@@ -5,14 +5,25 @@ title: '☕️'
 
 <!-- https://www.33books.com/products/33-coffees -->
 
+https://oddlycorrect.com/shop/kenya-muthunzuuni-peaberry/
+
 |                 |                                   |
 | --------------- | --------------------------------- |
 | **Date**        | Feb 12th, 2022                    |
-| **Roaster**     | Pine                              |
-| **Coffee**      | Colombia — El Jardin - Chiclet    |
+| **Roaster**     | Oddly Correct                     |
+| **Coffee**      | Kenya Muthunzuuni Peaberry        |
 | **Brew Method** | drip                              |
 | **Taste**       | raspberry, strawberry, watermelon |
 | **Rating**      |                                   |
+
+|                 |                                                                                                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Date**        | Feb 12th, 2022                                                                                                      |
+| **Roaster**     | Pine                                                                                                                |
+| **Coffee**      | [Colombia — El Jardin - Chiclet](https://pinecoffeesupply.com/collections/shop/products/colombia-el-jardin-chiclet) |
+| **Brew Method** | drip                                                                                                                |
+| **Taste**       | raspberry, strawberry, watermelon                                                                                   |
+| **Rating**      |                                                                                                                     |
 
 |                 |                              |
 | --------------- | ---------------------------- |
