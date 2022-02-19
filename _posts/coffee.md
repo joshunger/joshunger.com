@@ -4,11 +4,12 @@ title: '☕️'
 
 <!-- https://www.33books.com/products/33-coffees -->
 
-| **Date**   | **Coffee**                                      | **Taste**                           |
-| ---------- | ----------------------------------------------- | ----------------------------------- |
-| 2022-02-19 | Blanchard's Kenya KIUNYU AB                     | Red Grape, Apricot, Pink Peppercorn |
-| 2022-02-01 | Cat & Cloud's [Costa Rica Finca Edgar Honey][2] |                                     |
-| 2022-01-26 | Methodical's [Ethiopia, Aricha Kebele][1]       |                                     |
+| **Date**   | **Coffee**                                      | **Method** | **Taste**                           |
+| ---------- | ----------------------------------------------- | ---------- | ----------------------------------- |
+| 2022-02-19 | Stovetop Roasters' Rwanda Agaseke               | drip       | Honey, Prune, Pomegranate           |
+| 2022-02-19 | Blanchard's Kenya Kiunyu AB                     | pour over  | Red Grape, Apricot, Pink Peppercorn |
+| 2022-02-01 | Cat & Cloud's [Costa Rica Finca Edgar Honey][2] |            |                                     |
+| 2022-01-26 | Methodical's [Ethiopia, Aricha Kebele][1]       |            |                                     |
 
 https://oddlycorrect.com/shop/kenya-muthunzuuni-peaberry/
 
