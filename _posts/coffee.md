@@ -1,9 +1,14 @@
 ---
 title: '☕️'
-# date: '2022-02-01'
 ---
 
 <!-- https://www.33books.com/products/33-coffees -->
+
+| **Date**   | **Coffee**                                      | **Taste**                           |
+| ---------- | ----------------------------------------------- | ----------------------------------- |
+| 2022-02-19 | Blanchard's Kenya KIUNYU AB                     | Red Grape, Apricot, Pink Peppercorn |
+| 2022-02-01 | Cat & Cloud's [Costa Rica Finca Edgar Honey][2] |                                     |
+| 2022-01-26 | Methodical's [Ethiopia, Aricha Kebele][1]       |                                     |
 
 https://oddlycorrect.com/shop/kenya-muthunzuuni-peaberry/
 
@@ -75,12 +80,6 @@ Come and restock your kitchen shelf with one of our absolute favorite roasters !
 | **Rating**      | ⭐ ⭐ ⭐ ⭐                                                                        |
 
 ---
-
-| Date             | Coffee                            | Place             |
-| ---------------- | --------------------------------- | ----------------- |
-| Feb 3rd, 2022    | Bunny Slope Seasonal Espresso     | Ritual            |
-| February 1, 2022 | [Costa Rica Finca Edgar Honey][2] | Cat & Cloud       |
-| January 26, 2022 | [Ethiopia, Aricha Kebele][1]      | Methodical Coffee |
 
 [1]: https://methodicalcoffee.com/collections/home-page/products/ethiopia-aricha-kebele
 [2]: https://catandcloud.com/products/costa-rica-finca-edgar-honey
