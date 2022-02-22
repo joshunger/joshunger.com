@@ -6,6 +6,7 @@ title: '☕️'
 
 | **Date**   | **Coffee**                                      | **Method** | **Taste**                           |
 | ---------- | ----------------------------------------------- | ---------- | ----------------------------------- |
+| 2022-02-22 | Blanchard's Kenya Kiunyu AB                     | drip       | better than pour over               |
 | 2022-02-19 | Stovetop Roasters' Rwanda Agaseke               | drip       | Honey, Prune, Pomegranate           |
 | 2022-02-19 | Blanchard's Kenya Kiunyu AB                     | pour over  | Red Grape, Apricot, Pink Peppercorn |
 | 2022-02-01 | Cat & Cloud's [Costa Rica Finca Edgar Honey][2] |            |                                     |
