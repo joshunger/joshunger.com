@@ -4,8 +4,13 @@ title: '☕️'
 
 <!-- https://www.33books.com/products/33-coffees -->
 
-| **Date**   | **Coffee**                                      | **Method** | **Taste**                           |
-| ---------- | ----------------------------------------------- | ---------- | ----------------------------------- |
+| **Date**   | **Coffee**                                      | **Method** | **Taste**                           | **Rating** |
+| ---------- | ----------------------------------------------- | ---------- | ----------------------------------- | ---------- |
+| 2022-03-03 | ETHIOPIA WORKA CHELBESA ANAEROBIC               | pour over  | light strawberry                    | 4.5        |
+| 2022-02-25 | B&W Worka Chelbesa - Hydro                      | espresso   |                                     |
+| 2022-02-25 | B&W Worka Chelbesa - Hydro                      | cortado    |                                     |
+| 2022-02-23 | Blue Copper Costa Rica - San Isidro             | drip       |
+| 2022-02-23 | ?                                               | drip       |
 | 2022-02-22 | Blanchard's Kenya Kiunyu AB                     | drip       | better than pour over               |
 | 2022-02-19 | Stovetop Roasters' Rwanda Agaseke               | drip       | Honey, Prune, Pomegranate           |
 | 2022-02-19 | Blanchard's Kenya Kiunyu AB                     | pour over  | Red Grape, Apricot, Pink Peppercorn |
