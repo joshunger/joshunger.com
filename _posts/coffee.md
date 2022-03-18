@@ -6,6 +6,9 @@ title: '☕️'
 
 | **Date**   | **Coffee**                                      | **Method** | **Taste**                           | **Rating** |
 | ---------- | ----------------------------------------------- | ---------- | ----------------------------------- | ---------- |
+| 2022-03-16 | B&W Worka Chelbesa - Hydro                      | drip       | ?                                   |            |
+| 2022-03-11 | Proud Mary ETHIOPIA JABANTO KURUME CM NATURAL   | drip       | ?                                   |            |
+| 2022-03-03 | COLOMBIA LAS FLORES                             | drip       | ?                                   | ?          |
 | 2022-03-03 | ETHIOPIA WORKA CHELBESA ANAEROBIC               | pour over  | light strawberry                    | 4.5        |
 | 2022-02-25 | B&W Worka Chelbesa - Hydro                      | espresso   |                                     |
 | 2022-02-25 | B&W Worka Chelbesa - Hydro                      | cortado    |                                     |
@@ -16,6 +19,12 @@ title: '☕️'
 | 2022-02-19 | Blanchard's Kenya Kiunyu AB                     | pour over  | Red Grape, Apricot, Pink Peppercorn |
 | 2022-02-01 | Cat & Cloud's [Costa Rica Finca Edgar Honey][2] |            |                                     |
 | 2022-01-26 | Methodical's [Ethiopia, Aricha Kebele][1]       |            |                                     |
+
+## Coffee Subscriptions
+
+| **Place**  | **Cost at 2lbs** | **Shipping** |
+| ---------- | ---------------- | ------------ |
+| Brandywine | $52.50           | $0           |
 
 https://oddlycorrect.com/shop/kenya-muthunzuuni-peaberry/
 
