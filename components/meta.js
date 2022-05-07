@@ -1,10 +1,10 @@
-import Head from "next/head";
-import { CMS_NAME, HOME_OG_IMAGE_URL } from "../lib/constants";
+import Head from 'next/head';
+import { CMS_NAME, HOME_OG_IMAGE_URL } from '../lib/constants';
 
 export default function Meta() {
   return (
     <Head>
-      <link
+      {/* <link
         rel="apple-touch-icon"
         sizes="180x180"
         href="/favicon/apple-touch-icon.png"
@@ -26,8 +26,8 @@ export default function Meta() {
         rel="mask-icon"
         href="/favicon/safari-pinned-tab.svg"
         color="#000000"
-      />
-      <link rel="shortcut icon" href="/favicon/favicon.ico" />
+      /> */}
+      <link rel="icon" type="image/svg+xml" href="favicon.svg" />
       <meta name="msapplication-TileColor" content="#000000" />
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
