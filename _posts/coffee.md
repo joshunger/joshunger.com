@@ -25,11 +25,12 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**                               | **Coffee**                         | **Method** | **Taste**                           | **Rating**         |
 | ---------- | ----------------------------------------- | ---------------------------------- | ---------- | ----------------------------------- | ------------------ |
+| 2022-05-14 | Olympia Coffee                            | Espiritu Wari Peru                 | pour over  |                                     | 4.5                |
 | 2022-05-10 | abracadabra                               | Monte De Oro Natural Gesha         | pour over  |                                     |                    |
 | 2022-05-07 | Heart                                     | ETHIOPIA WURI                      | drip       |                                     | 3                  |
 | 2022-05-07 | abracadabra                               | Monte De Oro Natural Gesha         | pour over  |                                     |                    |
-| 2022-04-28 | Little Wolf Coffee                        | Ethiopia Belayneh Bariso           | drip       | 4.5                                 |                    |
-| 2022-04-27 | RoseLine Peru Bella Carmen                |                                    | drip       | 4.5                                 |                    |
+| 2022-04-28 | Little Wolf Coffee                        | Ethiopia Belayneh Bariso           | drip       |                                     | 4.5                |
+| 2022-04-27 | RoseLine Peru Bella Carmen                |                                    | drip       |                                     | 4.5                |
 | 2022-04-23 | RoseLine Peru Bella Carmen                |                                    | drip       |                                     |                    |
 | 2022-04-23 | abracadabra                               | HONDURAS ANDRES FERNANDEZ          | pour over  |                                     |                    |
 | 2022-04-22 | ?                                         |                                    |            |                                     |                    |
