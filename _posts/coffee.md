@@ -64,10 +64,11 @@ tasting notes: strawberry soda, melon, winey -->
 | 2022-02-01 | Cat & Cloud                               | Costa Rica Finca Edgar Honey       |            |                                     |                    |
 | 2022-01-26 | Methodical's [Ethiopia, Aricha Kebele][1] |                                    |            |                                     |                    |
 
+<!-- <!--
 ## Coffee Subscriptions
 
-Next: https://www.rossocoffeeroasters.com/en-us/products/la-esperanza-washed?variant=32599593648199
-20% off
+<!-- Next: https://www.rossocoffeeroasters.com/en-us/products/la-esperanza-washed?variant=32599593648199
+20% off -->
 
 | **Place**          | **Cost at 2lbs** | **Shipping**               |
 | ------------------ | ---------------- | -------------------------- | --------------------------------------------------------------------------------- |
@@ -78,7 +79,7 @@ Next: https://www.rossocoffeeroasters.com/en-us/products/la-esperanza-washed?var
 | Proud Mary         | $66 for 1kg      | Mondays, free              |                                                                                   |
 | ABRACADABRA COFFEE | $40 for 2 lbs    |                            |                                                                                   |
 
-[Monthly Coffee Subscription — Abracadabra Coffee Co.](https://www.abracadabracoffeeco.com/subscription-products/biweekly-pn8we)
+[Monthly Coffee Subscription — Abracadabra Coffee Co.](https://www.abracadabracoffeeco.com/subscription-products/biweekly-pn8we) -->
 
 https://oddlycorrect.com/shop/kenya-muthunzuuni-peaberry/
 https://www.cultivarcoffee.com/products/decaf-blend-espresso?variant=39370613424314
@@ -163,4 +164,5 @@ Come and restock your kitchen shelf with one of our absolute favorite roasters !
 [1]: https://methodicalcoffee.com/collections/home-page/products/ethiopia-aricha-kebele
 [2]: https://catandcloud.com/products/costa-rica-finca-edgar-honey
 [3]: https://ritualcoffee.com/shop/coffee/bunny-slope-seasonal-espresso/
-[4]: https://thankfulfriend.coffee/coffees/p/jairo-arcilo
+
+[4]: https://thankfulfriend.coffee/coffees/p/jairo-arcilo -->
