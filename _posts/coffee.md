@@ -70,7 +70,7 @@ tasting notes: strawberry soda, melon, winey -->
 <!-- Next: https://www.rossocoffeeroasters.com/en-us/products/la-esperanza-washed?variant=32599593648199
 20% off -->
 
-| **Place**          | **Cost at 2lbs** | **Shipping**               |
+| **Place**          | **Cost at 2lbs** | **Shipping**               |                                                                                   |
 | ------------------ | ---------------- | -------------------------- | --------------------------------------------------------------------------------- |
 | Brandywine         | $52.50 for 2 lbs | free                       |                                                                                   |
 | Edison             |                  | $5 under $25, $0 above $25 |                                                                                   |
