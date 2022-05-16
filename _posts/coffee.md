@@ -25,6 +25,9 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**                               | **Coffee**                         | **Method** | **Taste**                           | **Rating**         |
 | ---------- | ----------------------------------------- | ---------------------------------- | ---------- | ----------------------------------- | ------------------ |
+| 2022-05-16 | Oddly                                     | Natural brazil                     |
+| 2022-05-16 | Methodical                                | Colombia, Delagua - Cesar Mariño   | pour over  |                                     |                    |
+| 2022-05-14 | Oddly                                     | BRAZIL SANTA INES YELLOW BOURBON   | drip       |                                     |                    |
 | 2022-05-14 | Olympia Coffee                            | Espiritu Wari Peru                 | pour over  |                                     | 4.5                |
 | 2022-05-10 | abracadabra                               | Monte De Oro Natural Gesha         | pour over  |                                     |                    |
 | 2022-05-07 | Heart                                     | ETHIOPIA WURI                      | drip       |                                     | 3                  |
