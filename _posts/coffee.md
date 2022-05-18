@@ -23,55 +23,50 @@ tasting notes: strawberry soda, melon, winey -->
 
 <!-- // | <!--       | 2022-03-24                                      | https://dailycoffee.us/products/ecuador-el-sauce-8oz | test                                | black pepper       | 4   | --> | -->
 
-| **Date**   | **Roaster**                               | **Coffee**                         | **Method** | **Taste**                           | **Rating**         |
-| ---------- | ----------------------------------------- | ---------------------------------- | ---------- | ----------------------------------- | ------------------ |
-| 2022-05-16 | Oddly                                     | Natural brazil                     |
-| 2022-05-16 | Methodical                                | Colombia, Delagua - Cesar Mariño   | pour over  |                                     |                    |
-| 2022-05-14 | Oddly                                     | BRAZIL SANTA INES YELLOW BOURBON   | drip       |                                     |                    |
-| 2022-05-14 | Olympia Coffee                            | Espiritu Wari Peru                 | pour over  |                                     | 4.5                |
-| 2022-05-10 | abracadabra                               | Monte De Oro Natural Gesha         | pour over  |                                     |                    |
-| 2022-05-07 | Heart                                     | ETHIOPIA WURI                      | drip       |                                     | 3                  |
-| 2022-05-07 | abracadabra                               | Monte De Oro Natural Gesha         | pour over  |                                     |                    |
-| 2022-04-28 | Little Wolf Coffee                        | Ethiopia Belayneh Bariso           | drip       |                                     | 4.5                |
-| 2022-04-27 | RoseLine Peru Bella Carmen                |                                    | drip       |                                     | 4.5                |
-| 2022-04-23 | RoseLine Peru Bella Carmen                |                                    | drip       |                                     |                    |
-| 2022-04-23 | abracadabra                               | HONDURAS ANDRES FERNANDEZ          | pour over  |                                     |                    |
-| 2022-04-22 | ?                                         |                                    |            |                                     |                    |
-| 2022-04-20 | Botz Edcuador                             |                                    | drip       |                                     |                    |
-| 2022-04-18 | Little Wolf                               | Qoke Ethiopia - Gedeo, Yirgacheffe | drip       |                                     |
-| 2022-04-16 | Heart Kenya                               |                                    |            |                                     |                    |
-| 2022-04-16 | Botz Burndi                               |                                    | drip       |                                     |                    |
-| 2022-04-13 | Brandywine Costa Rica                     |                                    |            |                                     |                    |
-| 2022-04-11 | Botz green                                |                                    | drip       |                                     |                    |
-| 2022-04-06 | Onyx El Salvador                          |                                    | drip       |                                     |                    |
-| 2022-04-06 | Botz                                      |                                    | pour over  |                                     |                    |
-| 2022-04-04 | Heart red bag                             |                                    |            |                                     |                    |
-| 2022-04-04 | Edison El Puente Honey Columbia           |                                    | drip       |                                     |                    |
-| 2022-04-02 | Botz Neyder Criollo Betancourt Columbia   |                                    | pour over  | ?                                   | 4 - good solid     |
-| 2022-04-01 | Heart                                     |                                    | pour over  |                                     |                    |
-| 2022-03-30 | B&W Jorge Raul Rivera Pacamara Honey #96  |                                    | drip       |                                     | 3.5 - solid coffee |
-| 2022-03-26 | Botz Neyder Criollo Betancourt            |                                    | pour over  | ?                                   | 4                  |
-| 2022-03-22 | Brandywine COSTA RICA- CATTLEYA - NATURAL |                                    | drip       |                                     | 3                  |
-| 2022-03-18 | Edison PALMERA COMMUNITY DECAF Columbia   |                                    | espresso   |                                     | 4                  |
-| 2022-03-16 | B&W Worka Chelbesa - Hydro                |                                    | drip       | ?                                   |                    |
-| 2022-03-11 | Proud Mary                                | ETHIOPIA JABANTO KURUME CM NATURAL | drip       | ?                                   |                    |
-| 2022-03-03 | COLOMBIA LAS FLORES                       |                                    | drip       | ?                                   | ?                  |
-| 2022-03-03 | ETHIOPIA WORKA CHELBESA ANAEROBIC         |                                    | pour over  | light strawberry                    | 4.5                |
-| 2022-02-25 | B&W Worka Chelbesa - Hydro                |                                    | espresso   |                                     |                    |
-| 2022-02-25 | B&W Worka Chelbesa - Hydro                |                                    | cortado    |                                     |                    |
-| 2022-02-23 | Blue Copper Costa Rica - San Isidro       |                                    | drip       |                                     |                    |
-| 2022-02-23 | ?                                         |                                    | drip       |                                     |                    |
-| 2022-02-22 | Blanchard's Kenya Kiunyu AB               |                                    | drip       | better than pour over               |                    |
-| 2022-02-19 | Stovetop Roasters' Rwanda Agaseke         |                                    | drip       | Honey, Prune, Pomegranate           |                    |
-| 2022-02-19 | Blanchard's Kenya Kiunyu AB               |                                    | pour over  | Red Grape, Apricot, Pink Peppercorn |                    |
-| 2022-02-01 | Cat & Cloud                               | Costa Rica Finca Edgar Honey       |            |                                     |                    |
-| 2022-01-26 | Methodical's [Ethiopia, Aricha Kebele][1] |                                    |            |                                     |                    |
-
-<!-- <!--
-## Coffee Subscriptions
-
-<!-- Next: https://www.rossocoffeeroasters.com/en-us/products/la-esperanza-washed?variant=32599593648199
-20% off -->
+| **Date**   | **Roaster**         | **Coffee**                           | **Method** | **Taste**                           | **Rating**         |
+| ---------- | ------------------- | ------------------------------------ | ---------- | ----------------------------------- | ------------------ |
+| 2022-05-18 | Oddly               | PERU CAJAMARCA NATURAL               | drip       |                                     |                    |
+| 2022-05-16 | Oddly               | Natural brazil                       |            |                                     |                    |
+| 2022-05-16 | Methodical          | Colombia, Delagua - Cesar Mariño     | pour over  |                                     |                    |
+| 2022-05-14 | Oddly               | BRAZIL SANTA INES YELLOW BOURBON     | drip       |                                     |                    |
+| 2022-05-14 | Olympia Coffee      | Espiritu Wari Peru                   | pour over  |                                     | 4.5                |
+| 2022-05-10 | abracadabra         | Monte De Oro Natural Gesha           | pour over  |                                     |                    |
+| 2022-05-07 | Heart               | ETHIOPIA WURI                        | drip       |                                     | 3                  |
+| 2022-05-07 | abracadabra         | Monte De Oro Natural Gesha           | pour over  |                                     |                    |
+| 2022-04-28 | Little Wolf Coffee  | Ethiopia Belayneh Bariso             | drip       |                                     | 4.5                |
+| 2022-04-27 | RoseLine            | Peru Bella Carmen                    | drip       |                                     | 4.5                |
+| 2022-04-23 | RoseLine            | Peru Bella Carmen                    | drip       |                                     |                    |
+| 2022-04-23 | abracadabra         | HONDURAS ANDRES FERNANDEZ            | pour over  |                                     |                    |
+| 2022-04-22 | ?                   |                                      |            |                                     |                    |
+| 2022-04-20 | Botz Edcuador       |                                      | drip       |                                     |                    |
+| 2022-04-18 | Little Wolf         | Qoke Ethiopia - Gedeo, Yirgacheffe   | drip       |                                     |
+| 2022-04-16 | Heart Kenya         |                                      |            |                                     |                    |
+| 2022-04-16 | Botz Burndi         |                                      | drip       |                                     |                    |
+| 2022-04-13 | Brandywine          | Costa Rica ?                         |            |                                     |                    |
+| 2022-04-11 | Botz green          |                                      | drip       |                                     |                    |
+| 2022-04-06 | Onyx El Salvador    |                                      | drip       |                                     |                    |
+| 2022-04-06 | Botz                |                                      | pour over  |                                     |                    |
+| 2022-04-04 | Heart red bag       |                                      |            |                                     |                    |
+| 2022-04-04 | Edison              | El Puente Honey Columbia             | drip       |                                     |                    |
+| 2022-04-02 | Botz                | Neyder Criollo Betancourt Columbia   | pour over  | ?                                   | 4 - good solid     |
+| 2022-04-01 | Heart               |                                      | pour over  |                                     |                    |
+| 2022-03-30 | B&W                 | Jorge Raul Rivera Pacamara Honey #96 | drip       |                                     | 3.5 - solid coffee |
+| 2022-03-26 | Botz                | Neyder Criollo Betancourt            | pour over  | ?                                   | 4                  |
+| 2022-03-22 | Brandywine          | COSTA RICA- CATTLEYA - NATURAL       | drip       |                                     | 3                  |
+| 2022-03-18 | Edison              | PALMERA COMMUNITY DECAF Columbia     | espresso   |                                     | 4                  |
+| 2022-03-16 | B&W                 | Worka Chelbesa - Hydro               | drip       | ?                                   |                    |
+| 2022-03-11 | Proud Mary          | ETHIOPIA JABANTO KURUME CM NATURAL   | drip       | ?                                   |                    |
+| 2022-03-03 | COLOMBIA LAS FLORES |                                      | drip       | ?                                   | ?                  |
+| 2022-03-03 | Onyx                | ETHIOPIA WORKA CHELBESA ANAEROBIC    | pour over  | light strawberry                    | 4.5                |
+| 2022-02-25 | B&W                 | Worka Chelbesa - Hydro               | espresso   |                                     |                    |
+| 2022-02-25 | B&W                 | Worka Chelbesa - Hydro               | cortado    |                                     |                    |
+| 2022-02-23 | Blue Copper         | Costa Rica - San Isidro              | drip       |                                     |                    |
+| 2022-02-23 | ?                   |                                      | drip       |                                     |                    |
+| 2022-02-22 | Blanchard           | Kenya Kiunyu AB                      | drip       | better than pour over               |                    |
+| 2022-02-19 | Stovetop Roasters   | Rwanda Agaseke                       | drip       | Honey, Prune, Pomegranate           |                    |
+| 2022-02-19 | Blanchard           | Kenya Kiunyu AB                      | pour over  | Red Grape, Apricot, Pink Peppercorn |                    |
+| 2022-02-01 | Cat & Cloud         | Costa Rica Finca Edgar Honey         |            |                                     |                    |
+| 2022-01-26 | Methodical          | Ethiopia, Aricha Kebele              |            |                                     |                    |
 
 | **Place**          | **Cost at 2lbs** | **Shipping**               |                                                                                   |
 | ------------------ | ---------------- | -------------------------- | --------------------------------------------------------------------------------- |
