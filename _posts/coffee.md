@@ -23,8 +23,13 @@ tasting notes: strawberry soda, melon, winey -->
 
 <!-- // | <!--       | 2022-03-24                                      | https://dailycoffee.us/products/ecuador-el-sauce-8oz | test                                | black pepper       | 4   | --> | -->
 
+5-19 - https://oddlycorrect.com/shop/ethiopia-odola-guji/
+
 | **Date**   | **Roaster**         | **Coffee**                           | **Method** | **Taste**                           | **Rating**         |
 | ---------- | ------------------- | ------------------------------------ | ---------- | ----------------------------------- | ------------------ |
+| 2022-05-20 | Madcap Coffee       | LUIS REINOSO COLOMBIA                | drip       |
+| 2022-05-20 | Madcap Coffee       | Juan Angel                           | drip       |
+| 2022-05-19 | Oddly               | Ethiopia Odola Guji                  | drip       |
 | 2022-05-18 | Oddly               | PERU CAJAMARCA NATURAL               | drip       |                                     |                    |
 | 2022-05-16 | Oddly               | Natural brazil                       |            |                                     |                    |
 | 2022-05-16 | Methodical          | Colombia, Delagua - Cesar Mariño     | pour over  |                                     |                    |
