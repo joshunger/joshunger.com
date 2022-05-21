@@ -27,6 +27,7 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                           | **Method** | **Taste**                           | **Rating**         |
 | ---------- | ------------------- | ------------------------------------ | ---------- | ----------------------------------- | ------------------ |
+| 2022-05-21 | Stovetop            | Refisa Ethiopia                      | pour over  |
 | 2022-05-20 | Madcap Coffee       | LUIS REINOSO COLOMBIA                | drip       |
 | 2022-05-20 | Madcap Coffee       | Juan Angel                           | drip       |
 | 2022-05-19 | Oddly               | Ethiopia Odola Guji                  | drip       |
