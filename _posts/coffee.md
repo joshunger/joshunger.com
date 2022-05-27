@@ -27,6 +27,11 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                           | **Method** | **Taste**                           | **Rating**         |
 | ---------- | ------------------- | ------------------------------------ | ---------- | ----------------------------------- | ------------------ |
+| 2022-05-27 | Little Wolf         | Ecuador Lugmapata                    | pour over  |                                     |
+| 2022-05-24 | Cat Cloud           | Guatamala                            |            |                                     |
+| 2022-05-24 | Olympia Coffee      | Espiritu Wari Peru                   | espresso   |                                     |                    |
+| 2022-05-22 | Sea Fog Coffee      | Ethiopia Nensebo Suke                | french     |                                     | 3                  |
+| 2022-05-21 | Oddly               | Ethiopia Odula Guji                  | drip       |
 | 2022-05-21 | Stovetop            | Refisa Ethiopia                      | pour over  |
 | 2022-05-20 | Madcap Coffee       | LUIS REINOSO COLOMBIA                | drip       |
 | 2022-05-20 | Madcap Coffee       | Juan Angel                           | drip       |
