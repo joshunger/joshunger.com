@@ -27,6 +27,7 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                           | **Method** | **Taste**                           | **Rating**         |
 | ---------- | ------------------- | ------------------------------------ | ---------- | ----------------------------------- | ------------------ |
+| 2022-05-27 | Little Wolf         | La Esperanza Columbia                | drip       |                                     | 4                  |
 | 2022-05-27 | Little Wolf         | Ecuador Lugmapata                    | pour over  |                                     |
 | 2022-05-24 | Cat Cloud           | Guatamala                            |            |                                     |
 | 2022-05-24 | Olympia Coffee      | Espiritu Wari Peru                   | espresso   |                                     |                    |
