@@ -27,6 +27,7 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                           | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ------------------------------------ | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-06-08 | Heart               | Kenya Spikes AA                      | pour over  | strawberry, cream, red currant                         |                    |
 | 2022-06-06 | Luna Coffee         | Colombia Yacuanquer Nariño           | espresso   | vanilla pastry, berry jam, mango                       | 4.2                |
 | 2022-06-04 | Brandywine          | Galactic Standard                    | cortado    |                                                        | 3.8                |
 | 2022-06-02 | Cat Cloud           | Mexico, Ernesto Perez                | drip       | Wildflower Honey, Green Apple, Lemon Meringue Pie      |                    |
