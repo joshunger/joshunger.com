@@ -27,6 +27,12 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-07-14 | Heart               | KENYA GACHUIRO AB                                                 | drip       | maple, black currant, orange candy                     |
+| 2022-07-14 | Heart               | ETHIOPIA YUKRO                                                    | pour       | guava, rasberry                                        |
+| 2022-07-06 | Luna                | Castillo by Jorge Bravo Rodriguez in Nariño, Colombia             | pour       | dragon fruit (pitaya) and asian pear                   | 3.9                |
+| 2022-07-02 | La Cabra            | ETHIOPIA Gedeb                                                    | pour       |
+| ?          |
+| 2022-06-29 | Little Wolf         | Nansebo Ethiopia                                                  | drip       | Lavender, Plum, Sugary                                 |
 | 2022-06-27 | Olympia             | Big Truck - Colombia San Fermin and Ethiopia Halo Bariti Natural  |            |
 | 2022-06-25 | Whiptail            | Guatemala Canchapina - Marta Neli Dominguez                       | press      | Passion Fruit, Pineapple Chutney, Lime Hard Candy      | 3                  |
 | 2022-06-25 | Luna                | Jelly Donut – Caturra by Luis Vicente Morales in Nariño, Colombia |            |
