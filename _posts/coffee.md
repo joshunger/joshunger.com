@@ -27,6 +27,7 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-07-16 | Heart               | Guatemala Amate                                                   | drip       | tangerine, caramel, almond                             |
 | 2022-07-14 | Heart               | KENYA GACHUIRO AB                                                 | drip       | maple, black currant, orange candy                     |
 | 2022-07-14 | Heart               | ETHIOPIA YUKRO                                                    | pour       | guava, rasberry                                        |
 | 2022-07-06 | Luna                | Castillo by Jorge Bravo Rodriguez in Nariño, Colombia             | pour       | dragon fruit (pitaya) and asian pear                   | 3.9                |
