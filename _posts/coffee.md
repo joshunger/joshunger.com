@@ -27,6 +27,9 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-08-05 | Brandywine          | Columbia Farm: La Chiquita Process: Orange Crush Honey            | pour over  |
+| 2022-08-02 | Little Wolf         | Wamuguma AB Kenya                                                 | drip       | Tangerine, Hibiscus, Syrupy                            | 4.5 good           |
+| 2022-08-02 | Proud Mary          | Hondurus                                                          | pour over  |
 | 2022-07-30 | Proud Mary          | Ghost Rider                                                       | espresso   | Milk chocolate, red grape, blueberry, & syrupy         |                    |
 | 2022-07-20 | Little Wolf         | Wamuguma AB                                                       | espresso   |                                                        |                    |
 | 2022-07-20 | Luna                | Blue Honey – Castillo by José Guillermo Toro in Nariño, Colombia  | french     | fresh blueberry and lactic acidity                     |                    |
