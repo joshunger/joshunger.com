@@ -27,6 +27,10 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-08-12 | Abracadabra         | Peru Edy Sosa                                                     | drip       |
+| 2022-08-12 | Brandywine          | Panama CCD                                                        | drip       |
+| 2022-08-06 | Abracadabra Coffee  | COLOMBIA GESHA MARCELA ANAEROBIC NATURAL                          | drip       | Concord Grape, Plum, Rose Water                        | 4.2                |
+| 2022-08-05 | Luna                | Columbia?                                                         | drip       |
 | 2022-08-05 | Brandywine          | Columbia Farm: La Chiquita Process: Orange Crush Honey            | pour over  |
 | 2022-08-02 | Little Wolf         | Wamuguma AB Kenya                                                 | drip       | Tangerine, Hibiscus, Syrupy                            | 4.5 good           |
 | 2022-08-02 | Proud Mary          | Hondurus                                                          | pour over  |
