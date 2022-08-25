@@ -27,6 +27,8 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-08-24 | TIM WENDELBOE       | Honduras Nacimiento Pacas                                         | espresso   | Winey, red fruits & mango                              | 3.8                |
+| 2022-08-14 | Heart               | Ethiopia Danche                                                   | pour       |
 | 2022-08-12 | Abracadabra         | Peru Edy Sosa                                                     | drip       |
 | 2022-08-12 | Brandywine          | Panama CCD                                                        | drip       |
 | 2022-08-06 | Abracadabra Coffee  | COLOMBIA GESHA MARCELA ANAEROBIC NATURAL                          | drip       | Concord Grape, Plum, Rose Water                        | 4.2                |
