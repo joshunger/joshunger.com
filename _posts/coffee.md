@@ -27,7 +27,10 @@ tasting notes: strawberry soda, melon, winey -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
-| 2022-08-24 | TIM WENDELBOE       | Honduras Nacimiento Pacas                                         | espresso   | Winey, red fruits & mango                              | 3.8                |
+| 2022-09-03 | Tim Wendelboe       | Caballero Geisha                                                  | po         | Sweet mandarin, jasmine & honey                        | 4.0                |
+| 2022-09-02 | Proud Mary          | Nahun Fernandez                                                   | drip       | Dark chocolate, grilled pineapple, honey, & hibiscus   | 4.5                |
+| 2022-09-02 | Tim Wendelboe       | KENYA - GACHATHA                                                  | pour over  | Blackcurrants, rose hips & hibiscus                    | 4.1                |
+| 2022-08-24 | Tim Wendelboe       | Honduras Nacimiento Pacas                                         | espresso   | Winey, red fruits & mango                              | 3.8                |
 | 2022-08-14 | Heart               | Ethiopia Danche                                                   | pour       |
 | 2022-08-12 | Abracadabra         | Peru Edy Sosa                                                     | drip       |
 | 2022-08-12 | Brandywine          | Panama CCD                                                        | drip       |
