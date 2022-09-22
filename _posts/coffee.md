@@ -15,18 +15,17 @@ roaster: Sweet Bloom
 origin: kanzu
 method: drip -->
 
-<!-- #### 2022-04-28
-roaster: Little Wolf Coffee
-origin: Ethiopia Belayneh Bariso
-process: natural
-tasting notes: strawberry soda, melon, winey -->
-
-<!-- // | <!--       | 2022-03-24                                      | https://dailycoffee.us/products/ecuador-el-sauce-8oz | test                                | black pepper       | 4   | --> | -->
-
 5-19 - https://oddlycorrect.com/shop/ethiopia-odola-guji/
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-09-22 | Heart               | Leonel Martinez                                                   | drip       | mandarin, hibiscus, cacao                              | 4.0                |
+| 2022-09-17 | Heart               | Leonel Martinez                                                   | espresso   | mandarin, hibiscus, cacao                              | 4.3                |
+| 2022-09-17 | Olympia             | Yabitu Koba Natural                                               | drip       |                                                        | 3.9                |
+| 2022-09-14 | Olympia             | Guatemala Ovidio Garcia Natuarl                                   | po         | blueberry pie, spice, and dark chocolate               |
+| 2022-09-10 | Heart               | Kenya                                                             |
+| 2022-09-10 | Onyx                | COSTA RICA LAS LAJAS NATURAL                                      | po         | Blueberry, Vanilla, Papaya, Concord Grape              | 3.9                |
+| 2022-09-05 | Nemesis             | COLOMBIA Elias Parra Roa - Finca Tamana                           | drip       | prune, dark honey, white gooseberry                    | 4.1                |
 | 2022-09-03 | Tim Wendelboe       | Caballero Geisha                                                  | po         | Sweet mandarin, jasmine & honey                        | 4.0                |
 | 2022-09-02 | Proud Mary          | Nahun Fernandez                                                   | drip       | Dark chocolate, grilled pineapple, honey, & hibiscus   | 4.5                |
 | 2022-09-02 | Tim Wendelboe       | KENYA - GACHATHA                                                  | pour over  | Blackcurrants, rose hips & hibiscus                    | 4.1                |
