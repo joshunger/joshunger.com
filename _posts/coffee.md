@@ -19,6 +19,11 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-10-03 | Olympia             | Ethiopia Koke                                                     | drip       | bergamot, juniper berries, and citrus                  | 4.0                |
+| 2022-09-28 | Steel Oak Coffee    | Guatemala - Ixlama                                                | drip       | Strawberry, Brown Sugar, Clean & Balanced              | 3.9                |
+| 2022-09-26 | Steel Oak Coffee    | Colombia - Huila Decaf                                            | espresso   | Strawberry, Graham, Brown Sugar, Clean                 | 3.9                |
+| 2022-09-24 | Little Wolf         | ?                                                                 | drip       |
+| 2022-09-23 | Olympia             | Long Miles Kiringa Peaberry                                       | drip       | blackberry, spice, and caramel                         | 4.0                |
 | 2022-09-22 | Heart               | Leonel Martinez                                                   | drip       | mandarin, hibiscus, cacao                              | 4.0                |
 | 2022-09-17 | Heart               | Leonel Martinez                                                   | espresso   | mandarin, hibiscus, cacao                              | 4.3                |
 | 2022-09-17 | Olympia             | Yabitu Koba Natural                                               | drip       |                                                        | 3.9                |
