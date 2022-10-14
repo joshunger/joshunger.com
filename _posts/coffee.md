@@ -19,6 +19,10 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-10-14 | Proud Mary          | KENYA Chania Estate Natural                                       | drip       | 
+| 2022-10-08 | La Cabra            | CACHOEIRA                                                         | drip       |                                                        | 3.9                |
+| 2022-10-06 | La Cabra            | Kenya - Kaiguri                                                   | po         | BRIGHT, CRISP BERRIES                                  | 4.0                |
+| 2022-10-03 | Steel Oak Coffee    | Nicaragua San Francisco, Washed Caturra, Catuai                   | french     | prune, hazelnut, vanilla cream                         | 4.0                |
 | 2022-10-03 | Olympia             | Ethiopia Koke                                                     | drip       | bergamot, juniper berries, and citrus                  | 4.0                |
 | 2022-09-28 | Steel Oak Coffee    | Guatemala - Ixlama                                                | drip       | Strawberry, Brown Sugar, Clean & Balanced              | 3.9                |
 | 2022-09-26 | Steel Oak Coffee    | Colombia - Huila Decaf                                            | espresso   | Strawberry, Graham, Brown Sugar, Clean                 | 3.9                |
