@@ -19,7 +19,11 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
-| 2022-10-14 | Proud Mary          | KENYA Chania Estate Natural                                       | drip       | 
+| 2022-10-17 | Proud Mary          | COLOMBIA POPAYAN RESERVE CATURRA & CASTILLO WASHED DECAF          | espresso   | Caramelised fig, raw sugar, & brown spice              | 4.1                |
+| 2022-10-17 | Proud Mary          | BRAZIL FAZENDA IP - ALTA GRACIA YELLOW BOURBON NATURAL            | drip       | Tropical fruit, melon, & blueberry                     | 3.9                |
+| 2022-10-15 | Proud Mary          | BRAZIL FAZENDA IP - ALTA GRACIA YELLOW BOURBON NATURAL            | drip       | Tropical fruit, melon, & blueberry                     | 3.9                |
+| 2022-10-14 | Brandywine          | Ethiopia                                                          |
+| 2022-10-14 | Proud Mary          | KENYA Chania Estate Natural                                       | drip       |
 | 2022-10-08 | La Cabra            | CACHOEIRA                                                         | drip       |                                                        | 3.9                |
 | 2022-10-06 | La Cabra            | Kenya - Kaiguri                                                   | po         | BRIGHT, CRISP BERRIES                                  | 4.0                |
 | 2022-10-03 | Steel Oak Coffee    | Nicaragua San Francisco, Washed Caturra, Catuai                   | french     | prune, hazelnut, vanilla cream                         | 4.0                |
