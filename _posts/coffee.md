@@ -19,6 +19,11 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                              | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------ | ------------------ |
+| 2022-10-27 | Brandywine          | COLOMBIA - MONTEBLANCO - TROPICAL NATURAL - PURPLE CATURRA        | pour       | Kiwi, Dragonfruit, Butterscotch                        | 4.1                |
+| 2022-10-25 | Olympia             | Yabitu Koba Natural                                               | drip       | Grape, Blueberry, Maple Syrup                          | 4.1                |
+| 2022-10-22 | Proud Mary          | Kenya Chania Estate French Mission Natural                        | drip       |
+| 2022-10-20 | Proud Mary          | Ghost Rider                                                       | espresso   |
+| 2022-10-19 | Little Wolf         | Alto de Los Santos Honduras                                       | drip       | Cacao, Pear, Lush                                      | 4.0                |
 | 2022-10-17 | Proud Mary          | COLOMBIA POPAYAN RESERVE CATURRA & CASTILLO WASHED DECAF          | espresso   | Caramelised fig, raw sugar, & brown spice              | 4.1                |
 | 2022-10-17 | Proud Mary          | BRAZIL FAZENDA IP - ALTA GRACIA YELLOW BOURBON NATURAL            | drip       | Tropical fruit, melon, & blueberry                     | 3.9                |
 | 2022-10-15 | Proud Mary          | BRAZIL FAZENDA IP - ALTA GRACIA YELLOW BOURBON NATURAL            | drip       | Tropical fruit, melon, & blueberry                     | 3.9                |
