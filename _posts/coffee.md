@@ -19,6 +19,11 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                               | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------- | ------------------ |
+| 2022-11-16 | Olympia             | ?                                                                 | drip       |
+| 2022-11-12 | Manhattan           | Letty Bermudez Columbia Geisha                                    | pour       | haribo peach, milky oolong, mango                       | 4.0                |
+| 2022-11-11 | Proud Mary          | Kenya Chania Estate French Mission Natural                        | drip       | Passionfruit, strawberry, mango, & syrupy               |
+| 2022-11-11 | Heart               | Kenya Nyawira AA                                                  | espresso   | blackberry, kiwi, red clover                            | 4.2                |
+| 2022-11-08 | Manhattan           | El Savador                                                        |
 | 2022-11-04 | touchy coffee       | Costa Rica San Miguel                                             | pour       | sangria, FRUIT BY THE FOOT                              | 4.5                |
 | 2022-11-01 | Proud Mary          | FRANKEN GRIND BLEND                                               | drip       | Blackcurrant, strawberry twizzler, & tropical starburst | 3.9                |
 | 2022-10-15 | Free Space Coffee   | Columbia Tolima Fresno El Vergel Guava 25                         | french     | sweat cacao, apple cider, red berrires, vanilla         | 4.0                |
