@@ -19,6 +19,8 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                               | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------- | ------------------ |
+| 2022-11-22 | MANHATTAN           | DIEGO BERMUDEZ Columbia                                           | pour       | turkish delight raspberry lychee                        | 4.3                |
+| 2022-11-19 | MANHATTAN           | panama santa clara finca santa teresa                             | pour       | orange melon brown sugar                                | 4.0                |
 | 2022-11-16 | Olympia             | ?                                                                 | drip       |
 | 2022-11-12 | Manhattan           | Letty Bermudez Columbia Geisha                                    | pour       | haribo peach, milky oolong, mango                       | 4.0                |
 | 2022-11-11 | Proud Mary          | Kenya Chania Estate French Mission Natural                        | drip       | Passionfruit, strawberry, mango, & syrupy               |
