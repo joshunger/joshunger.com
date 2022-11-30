@@ -19,6 +19,9 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                               | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------- | ------------------ |
+| 2022-11-30 | MANHATTAN           | JOSE GIRALDO colombia quindio la clarita                          | pour       | peach passionfruit cointreau                            | 4.3                |
+| 2022-11-25 | special drip        |
+| 2022-11-24 | Abracadabra         | FINCA LA CATARATA COSTA RICA                                      | espresso   | Pineapple, Passionfruit, Vanilla Bean                   | 4.0                |
 | 2022-11-22 | MANHATTAN           | DIEGO BERMUDEZ Columbia                                           | pour       | turkish delight raspberry lychee                        | 4.3                |
 | 2022-11-19 | MANHATTAN           | panama santa clara finca santa teresa                             | pour       | orange melon brown sugar                                | 4.0                |
 | 2022-11-16 | Olympia             | ?                                                                 | drip       |
