@@ -19,6 +19,7 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                                                | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------ | ------------------ |
+| 2022-12-24 | Friedhats           | ETHIOPIA - GEDEO                                                  | pour       | STRAWBERRY, PAPAYA, MELON, ROASTED PINEAPPLE                             | 4.4                |
 | 2022-12-20 | Abracadabra         | ANAEROBIC NATURAL FINCA LA CATARATA COSTA RICA                    | drip       | Pineapple, Passionfruit, Vanilla Bean                                    | 4.3                |
 | 2022-12-20 | Wendelboe           | Geisha HONDURAS - CABALLERO                                       | pour       | Sweet mandarin, jasmine & honey                                          | 4.1                |
 | 2022-12-17 | FRIEDHATS           | GUATEMALA YULCHEN                                                 | pour       | RED APPLE, CANE SUGAR, STONE FRUIT                                       | 3.9                |
