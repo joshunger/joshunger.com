@@ -19,6 +19,9 @@ method: drip -->
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                                                | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------ | ------------------ |
+| 2023-03-19 | pair cupworks       | kenya teremuka coffee estate                                      | french     | red plum, black tea, dark chocolate                                      | 4.0                |
+| 2023-03-05 | Westbird Coffee     | Burundi Kayanza                                                   | french     | tobacco, honey dew melon, citrus                                         | 3.9                |
+| 2022-12-24 | Nomad Coffee Spain  | Columbia MARACATURRA                                              | pour       | CACAO, JAMAICA PEPPER, TURMERIC                                          | 4.3                |
 | 2022-12-24 | Friedhats           | ETHIOPIA - GEDEO                                                  | pour       | STRAWBERRY, PAPAYA, MELON, ROASTED PINEAPPLE                             | 4.4                |
 | 2022-12-20 | Abracadabra         | ANAEROBIC NATURAL FINCA LA CATARATA COSTA RICA                    | drip       | Pineapple, Passionfruit, Vanilla Bean                                    | 4.3                |
 | 2022-12-20 | Wendelboe           | Geisha HONDURAS - CABALLERO                                       | pour       | Sweet mandarin, jasmine & honey                                          | 4.1                |
