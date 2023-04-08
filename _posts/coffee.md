@@ -15,10 +15,21 @@ roaster: Sweet Bloom
 origin: kanzu
 method: drip -->
 
+<!--
+2023-04-02
+https://www.passengercoffee.com/products/halo-ea-decaf-2022?variant=40087774724176&_pos=4&_sid=df7873673&_ss=r
+https://regaliacoffee.com/products/desvelado-decaf?variant=42051576234153
+https://anomalouscoffee.com/products/los-eucaliptos?_pos=1&_sid=fc80fe50a&_ss=r
+https://okuscoffee.co/collections/all
+https://revelcoffee.com/coffee/
+https://www.modcup.com/collections/monthly-subscription-2023
+-->
+
 5-19 - https://oddlycorrect.com/shop/ethiopia-odola-guji/
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                                                | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------ | ------------------ |
+| 2023-04-08 | Friedhats           | ETHIOPIA - NEGELE GORBITU                                         | pour       | STRAWBERRY, PAPAYA, CP ROASTED PINEAPPLE                                 | 4.3                |
 | 2023-03-19 | pair cupworks       | kenya teremuka coffee estate                                      | french     | red plum, black tea, dark chocolate                                      | 4.0                |
 | 2023-03-05 | Westbird Coffee     | Burundi Kayanza                                                   | french     | tobacco, honey dew melon, citrus                                         | 3.9                |
 | 2022-12-24 | Nomad Coffee Spain  | Columbia MARACATURRA                                              | pour       | CACAO, JAMAICA PEPPER, TURMERIC                                          | 4.3                |
