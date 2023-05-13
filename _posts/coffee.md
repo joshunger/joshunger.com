@@ -29,6 +29,11 @@ https://www.modcup.com/collections/monthly-subscription-2023
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                                                | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------ | ------------------ |
+| 2023-05-13 | Rogue Wave          | Ehtiopia Bekele Kachara Lot 81                                    | french     | strawberry, raspberry candy, cherry, floral                              |                    |
+| 2023-04-29 | Rogue Wave          | Ethiopia Teshome Gemechu Gedeb Chelbesa                           | french     | peach candy, lemon, rasberry apricot                                     |                    |
+| 2023-04-29 | Rogue Wave          | Guatemala El Tambor Victor Calderon                               | french     | red apple, chocolate, apricot, walnut                                    |                    |
+| 2023-04-10 | Rogue Wave          | Burundi Kibingo Kayanza District                                  | french     | blackberry, grapefruit, blood orange, iced tea, lychee                   | 4.1                |
+| 2023-04-08 | Proud Mary          | El Salvador LOS BELLOTOS                                          | drip       | Strawberry, marzipan, apricot, & pineapple                               | 4.0                |
 | 2023-04-08 | Friedhats           | ETHIOPIA - NEGELE GORBITU                                         | pour       | STRAWBERRY, PAPAYA, CP ROASTED PINEAPPLE                                 | 4.3                |
 | 2023-03-19 | pair cupworks       | kenya teremuka coffee estate                                      | french     | red plum, black tea, dark chocolate                                      | 4.0                |
 | 2023-03-05 | Westbird Coffee     | Burundi Kayanza                                                   | french     | tobacco, honey dew melon, citrus                                         | 3.9                |
