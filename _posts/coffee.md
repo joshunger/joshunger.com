@@ -27,6 +27,7 @@ https://www.modcup.com/collections/monthly-subscription-2023
 
 | **Date**   | **Roaster**         | **Coffee**                                                        | **Method** | **Taste**                                                                | **Rating**         |
 | ---------- | ------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------ | ------------------ |
+| 2023-10-10 | B&W                 | The Future: Grape Soda                                            | french     | grape candy, red fruit punch, lambrusco                                  | 4.2                |
 | 2023-05-19 | Abracadabra         | EA Decaf Palmera Columbia Huila                                   | french     | cinnamon, caramel, orange                                                | 4.0                |
 | 2023-05-13 | Rogue Wave          | Ehtiopia Bekele Kachara Lot 81                                    | french     | strawberry, raspberry candy, cherry, floral                              |                    |
 | 2023-04-29 | Rogue Wave          | Ethiopia Teshome Gemechu Gedeb Chelbesa                           | french     | peach candy, lemon, rasberry apricot                                     |                    |
